@@ -1,0 +1,10 @@
+rootProject.name = 'junit-flakey-testcase-detector'
+
+include 'testrunner'
+
+include 'testrunner-extensions'
+
+include 'unittest-helper'
+
+include 'integration-tests'
+
